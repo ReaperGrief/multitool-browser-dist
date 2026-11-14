@@ -1,9 +1,12 @@
 {
-  "versionCode": 62,
-  "versionName": "3.48",
-  "apk": "MultiToolBrowser-3.48.apk",
-  "sha256": "1fd3d2039909b51f10db0d8feb619a827e87877ac2b4ec6d509eea583b3481c4",
-  "size": 206875,
-  "notes": "Раздел «Текст» в настройках темы: свой цвет текста и 3 шрифта — Cormorant, Playfair, Manrope",
-  "date": "2026-11-14"
+    "versionCode":  63,
+    "versionName":  "4.0",
+    "apk":  "MultiToolBrowser-4.0.apk",
+    "sha256":  "0e073de15ea3a2a744cf804e23a1bfe51bd77ea0a9b28a6cb09206f21858cc3e",
+    "size":  206875,
+    "notes":  "4.0: золото только по галочке, цвет текста и 3 шрифта, градиент, единая защита, ПК-версия ASBrowser (ZIP в релизе)",
+    "date":  "2026-11-14",
+    "pcZip":  "ASBrowser-4.0-win64.zip",
+    "pcSha256":  "318870a3d1ef4f880832e9c453c81922d39af0369b2bc6e4bf3780d162379bdc",
+    "pcSize":  42827089
 }
