@@ -1,9 +1,9 @@
 {
-  "versionCode": 55,
-  "versionName": "3.41",
-  "apk": "MultiToolBrowser-3.41.apk",
-  "sha256": "ecc83d5bba8d4f0464bd5e04661174096fb132b18b2f46ace489d91b7d623f4a",
-  "size": 108088,
-  "notes": "Свои цвета фона и акцента вводом HEX, MAX через web.max.ru, убраны лишние подсказки",
+  "versionCode": 56,
+  "versionName": "3.42",
+  "apk": "MultiToolBrowser-3.42.apk",
+  "sha256": "c00eec8b5cb8bd7c1c00f17e275ad04de460048915cf8b5a51ce5fb90a805c35",
+  "size": 112184,
+  "notes": "Исключения темы: список сайтов, удаление крестиком, ручное добавление; www и поддомены учитываются",
   "date": "2026-11-14"
 }
