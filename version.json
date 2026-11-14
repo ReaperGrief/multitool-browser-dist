@@ -1,9 +1,9 @@
 {
-  "versionCode": 56,
-  "versionName": "3.42",
-  "apk": "MultiToolBrowser-3.42.apk",
-  "sha256": "c00eec8b5cb8bd7c1c00f17e275ad04de460048915cf8b5a51ce5fb90a805c35",
+  "versionCode": 57,
+  "versionName": "3.43",
+  "apk": "MultiToolBrowser-3.43.apk",
+  "sha256": "35afd942507ba09f67b4d95e67b75a31a6e0d4595fdb0a65bc004bffb67907a0",
   "size": 112184,
-  "notes": "Исключения темы: список сайтов, удаление крестиком, ручное добавление; www и поддомены учитываются",
+  "notes": "Меню без подсказок: только иконка и название пункта",
   "date": "2026-11-14"
 }
