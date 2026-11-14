@@ -1,15 +1,15 @@
 {
-    "versionCode":  63,
-    "versionName":  "4.0",
-    "apk":  "MultiToolBrowser-4.0.apk",
-    "sha256":  "0e073de15ea3a2a744cf804e23a1bfe51bd77ea0a9b28a6cb09206f21858cc3e",
+    "versionCode":  64,
+    "versionName":  "4.1",
+    "apk":  "MultiToolBrowser-4.1.apk",
+    "sha256":  "be4e649f3432b3cbff9738b61a8eee35667ff6bdf9ce858810cf97e23df61890",
     "size":  206875,
-    "notes":  "4.0: золото только по галочке, свой цвет текста и 3 шрифта, градиент, своя домашняя страница, читаемые настройки, ПК-установщик",
+    "notes":  "4.1: единый стиль — новая панель вкладок и адресная строка на ПК, золотые чекбоксы и скруглённые кнопки, аккуратные отступы в настройках и меню на Android, обновлённая домашняя страница",
     "date":  "2026-11-15",
-    "pcZip":  "ASBrowser-4.0-win64.zip",
-    "pcSha256":  "dea0da12f91e3c0b8a5ba0a30d96b6c5139873d50db02ad35b4df16477ac6307",
-    "pcSize":  42852352,
-    "setup":  "ASBrowser-Setup-4.0.exe",
-    "setupSha256":  "041d9d286a659709424fb1e2cdc81466e49d3752ddfac5018eb8241f314ce128",
-    "setupSize":  33457456
+    "pcZip":  "ASBrowser-4.1-win64.zip",
+    "pcSha256":  "e773f0894cc0219d1061ea3159ceb12b29de916d2e701e3df5df60f2ad6551b4",
+    "pcSize":  42846721,
+    "setup":  "ASBrowser-Setup-4.1.exe",
+    "setupSha256":  "284bb7b48269c0307cc774419a5b4c143897b8e8f482b66040c9f7cea0e211d5",
+    "setupSize":  33457089
 }
