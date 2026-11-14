@@ -1,9 +1,9 @@
 {
-  "versionCode": 54,
-  "versionName": "3.40",
-  "apk": "MultiToolBrowser-3.40.apk",
-  "sha256": "b1a4a88a5ec5214f29f10bba7071bc574b89b7ff8192c25852adb6ae81f5a02d",
-  "size": 112184,
-  "notes": "Сборка с обфускацией R8: имена классов и методов скрыты, неиспользуемый код удалён",
+  "versionCode": 55,
+  "versionName": "3.41",
+  "apk": "MultiToolBrowser-3.41.apk",
+  "sha256": "ecc83d5bba8d4f0464bd5e04661174096fb132b18b2f46ace489d91b7d623f4a",
+  "size": 108088,
+  "notes": "Свои цвета фона и акцента вводом HEX, MAX через web.max.ru, убраны лишние подсказки",
   "date": "2026-11-14"
 }
