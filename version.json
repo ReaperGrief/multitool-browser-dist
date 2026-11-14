@@ -1,0 +1,9 @@
+{
+  "versionCode": 52,
+  "versionName": "3.38",
+  "apk": "MultiToolBrowser-3.38.apk",
+  "sha256": "fad08cf0a519dbb12a98bb277b6d14af5f26970d049b572c5612e6ac015708bc",
+  "size": 116280,
+  "notes": "Загрузка файлов и фото на сайтах: включён доступ к content:// (ВК, почта, форумы)",
+  "date": "2026-11-14"
+}
