@@ -4,9 +4,12 @@
     "apk":  "MultiToolBrowser-4.0.apk",
     "sha256":  "0e073de15ea3a2a744cf804e23a1bfe51bd77ea0a9b28a6cb09206f21858cc3e",
     "size":  206875,
-    "notes":  "4.0: золото только по галочке, цвет текста и 3 шрифта, градиент, единая защита, ПК-версия ASBrowser (ZIP в релизе)",
-    "date":  "2026-11-14",
+    "notes":  "4.0: золото только по галочке, свой цвет текста и 3 шрифта, градиент, своя домашняя страница, читаемые настройки, ПК-установщик",
+    "date":  "2026-11-15",
     "pcZip":  "ASBrowser-4.0-win64.zip",
-    "pcSha256":  "318870a3d1ef4f880832e9c453c81922d39af0369b2bc6e4bf3780d162379bdc",
-    "pcSize":  42827089
+    "pcSha256":  "dea0da12f91e3c0b8a5ba0a30d96b6c5139873d50db02ad35b4df16477ac6307",
+    "pcSize":  42852352,
+    "setup":  "ASBrowser-Setup-4.0.exe",
+    "setupSha256":  "041d9d286a659709424fb1e2cdc81466e49d3752ddfac5018eb8241f314ce128",
+    "setupSize":  33457456
 }
