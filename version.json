@@ -1,9 +1,9 @@
 {
-  "versionCode": 59,
-  "versionName": "3.45",
-  "apk": "MultiToolBrowser-3.45.apk",
-  "sha256": "7c31b436df0561fe1a6dfe2c320b1520e349fbf94465a4bc3eb88e47e58875d8",
+  "versionCode": 60,
+  "versionName": "3.46",
+  "apk": "MultiToolBrowser-3.46.apk",
+  "sha256": "61342ac1b5af707e9d24811ba8fceb1c72161a829cef086aa95e1d2d91d8ba19",
   "size": 112184,
-  "notes": "Приложение переименовано в AS Браузер",
+  "notes": "Настройки упорядочены по приоритету: поиск, оформление, защита, вкладки, уведомления, обновления, данные, пароли, диагностика",
   "date": "2026-11-14"
 }
